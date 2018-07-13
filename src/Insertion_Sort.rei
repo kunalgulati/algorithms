@@ -1,1 +1,2 @@
-let sort: unit => unit;
+let sort: (int) => unit;
+
